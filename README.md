@@ -1,7 +1,4 @@
 # conflict-exercise
 Resolución de conflictos
-<<<<<<< HEAD
-Este es un cambio en la rama main. 
-=======
-Este es un cambio en la rama feature-branch
->>>>>>> feature-branch
+este es un cambio en la rama main 
+este es un cambio en la rama feature-branch
